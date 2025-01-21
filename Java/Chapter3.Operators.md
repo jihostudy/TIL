@@ -49,7 +49,7 @@ long lo = 2147483648L;
 
 실수 리터럴을 float 타입 변수에 저장하면 컴파일 에러가 발생한다.
 
-![long-error.png](./images/Chapter2.Variables/1.long.png)
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/eeab3f36-a8f3-42ff-a354-cbb7f6130b3a/9701d01c-089a-4c1f-8834-0ba94d3fa5d2/image.png)
 
 따라서, float 자료형을 사용하고 싶으면, 소문자 f나 대문자 F를 붙여주어야 한다.
 
