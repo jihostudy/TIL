@@ -1,8 +1,10 @@
 import os
 import re
 
-# Readme.md 파일 경로
-README_PATH = "Readme.md"
+# 현재 스크립트가 실행되는 위치를 기준으로 경로 설정
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+ROOT_DIR = os.path.abspath(os.path.join(SCRIPT_DIR, "../../"))  # 루트 디렉터리로 이동
+README_PATH = os.path.join(ROOT_DIR, "Readme.md")  # Readme.md의 절대경로 설정
 
 # GitHub Repository Base URL (네 리포지토리에 맞게 수정!)
 BASE_URL = "https://github.com/jihostudy/TIL/blob/main/"
