@@ -1,7 +1,7 @@
 # AOP (Aspect Oriented Programming, 관점 지향 프로그래밍)
 
 핵심 관심사(Core Concerns)와 횡단 관심사(Cross-Cutting Concerns)를 분리하여 **모듈화**하는 프로그래밍 패러다임
-
+ 
 <aside>
 📌
 
