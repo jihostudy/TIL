@@ -27,12 +27,6 @@
 [블로킹_논블로킹_동기_비동기](https://github.com/jihostudy/TIL/blob/main/Java/%EB%B8%94%EB%A1%9C%ED%82%B9_%EB%85%BC%EB%B8%94%EB%A1%9C%ED%82%B9_%EB%8F%99%EA%B8%B0_%EB%B9%84%EB%8F%99%EA%B8%B0.md) <br/>
 
 
-<br/><br/>
-## 📌 Java Spring
-
-### 📄 학습 내용
-
-[빈_IoC_DI](https://github.com/jihostudy/TIL/blob/main/Java/%EB%B9%88_IoC_DI.md) <br/>
 
 <br/><br/>
 ## 📌 JavaScript
