@@ -1,4 +1,4 @@
-reduce 함수 사용법
+## reduce 함수 사용법
 
 > 형태: `array.reduce(콜백함수, 초기값);`
 
