@@ -1,11 +1,12 @@
-# TIL (Today I Learned) / WIL (What I Learned)
-매일매일 공부한 내용이 아닌, 학습한 내용 단위로 커밋하여 정리합니다. <br/>
-꾸준한 학습을 통한 지식은 자산이 되고 실력이 됩니다.<br/>
-사소하고 당연한 내용을 공부하더라도 의문을 갖고 질문하는 능력을 길러야 합니다.<br/>
+# 학습 저장소
+꾸준한 학습을 통한 지식은 실력이 됩니다.<br/>
+이때, 사소하고 당연한 내용을 공부하더라도 의문을 갖고 질문하는 능력을 길러야 합니다.<br/>
 <br/><br/>
-현실적으로 매일할 수 없어도 꾸준히 공부를 하며 정리하는 습관을 가지는 것이 중요합니다. <br/>
-틀린 내용이 있다면 이슈를 남겨주세요! <br/>
+매일할 수 없어도 꾸준히 공부를 하며 정리하는 습관을 가지는 것이 중요합니다. <br/>
 
+---
+
+## 📚 학습 목차
 
 ## 📌 Java
 
@@ -64,3 +65,5 @@
 [OAuth](https://github.com/jihostudy/TIL/blob/main/Web/OAuth.md) <br/>
 [Socket](https://github.com/jihostudy/TIL/blob/main/Web/Socket.md) <br/>
 [쿠키_세션_스토리지](https://github.com/jihostudy/TIL/blob/main/Web/%EC%BF%A0%ED%82%A4_%EC%84%B8%EC%85%98_%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80.md) <br/>
+
+---
